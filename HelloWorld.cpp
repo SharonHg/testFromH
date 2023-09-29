@@ -3,7 +3,7 @@
 class HelloWorld {
 public:
     void sayHi() {
-        std::cout << "Hello world";
+        std::cout << "ROUBOREN";
     }
 };
 
